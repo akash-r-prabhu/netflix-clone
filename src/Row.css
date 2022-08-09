@@ -1,0 +1,9 @@
+.row_poster{
+    width: 100%;
+    object-fit: contain;
+    max-height: 100px;
+    transition: transform 450ms;
+}
+.row_posters{
+    display: flex;
+}
